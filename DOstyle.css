@@ -1604,9 +1604,13 @@ width:120px;
   
 }
 .aboutbox {
-height:23%;
+height:25%;
 font-size:20px;
  
+}
+
+.imgbox img {
+ height:74%;
 }
 
 .headbar2 {
