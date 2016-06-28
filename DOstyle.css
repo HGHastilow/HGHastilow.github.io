@@ -472,7 +472,7 @@ text-decoration: none;
  }
 
 #startthumb {
-  margin-left:4%;
+  margin-left:7%;
 }
 
 
@@ -860,6 +860,13 @@ padding-bottom:15px ;
         width:400px;
         height:570px;
         margin:1%;
+      }
+      #startthumb {
+       margin-left:10%;
+      }
+      .headbar {
+       margin-left:20%;
+       margin-right:20%;
       }
       .box {
 
