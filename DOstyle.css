@@ -1432,6 +1432,14 @@ float:right;
   margin-right:2% ;
 }
 
+.bodydiv {
+ 
+height:1000px;
+}
+.sidebar {
+ height:1000px;
+}
+
 #awardwinning {
   height:70px;
   margin-bottom:5%;
