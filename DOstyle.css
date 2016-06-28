@@ -1536,11 +1536,11 @@ height:40%;
   }
   
   #portbar {
-        height:2600px;
+        height:2100px;
       }
 
       #portbod {
-        height:2600px;
+        height:2100px;
       }
   
   #abtside {
@@ -1573,6 +1573,21 @@ height:40%;
   width:96%;
   margin-left:2% ;
   margin-right:2% ;
+}
+
+.bottombox {
+font-size:18px;
+width:80px;
+height:90%;
+}
+#botleftbox {
+  font-size:20px
+}
+
+#contbox {
+font-size:20px;
+margin-left:31%;
+width:90px;
 }
 
 .headbar2 {
