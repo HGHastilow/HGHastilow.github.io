@@ -1608,10 +1608,12 @@ height:30%;
 font-size:20px;
  
 }
-
+.imgbox {
+ height:11%;
+}
 .imgbox img {
- height:74%;
- margin-top:12%;
+ height:80%;
+ margin-top:7%;
 }
 
 .headbar2 {
