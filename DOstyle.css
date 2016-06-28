@@ -1390,7 +1390,7 @@ float:right;
   font-size:19px;
 }
 .dropbtn {
-  font-size:17px;
+  font-size:19px;
   padding-top:30%;
   padding-left:22%;
 }
@@ -1444,25 +1444,25 @@ width:140px;
 }
 
 #abtside {
-height:3200px;
+height:3800px;
 }
 #abtbod {
-height:3200px;
+height:3800px;
 }
 .imgbox {
 width:99%;
-height: 18%;
+height: 15%;
 margin-top:4%;
 }
 .imgbox img{
-height:94%;
+height:84%;
 margin-top:2%;
 margin-left:12%;
-width:73%;
+width:63%;
 }
 .aboutbox {
 width:99%;
-height:21%;
+height:19%;
 font-size:19px;
 margin-top:4%;
 }
@@ -1488,7 +1488,7 @@ height:40%;
 }
 
 #startthumb {
-  margin-left:4%;
+  margin-left:6%;
 }
 
 
