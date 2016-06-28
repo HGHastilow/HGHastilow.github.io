@@ -1336,6 +1336,9 @@ height:37%
    margin-left:1%;
 
     }
+    #abouttext {
+  font-size:10px;
+}
 
   }
 
@@ -1349,9 +1352,7 @@ height:37%
 .bodydiv {
   width:92%;
 }
-#abouttext {
-  font-size:10px;
-}
+
 
 #logo {
   width:60%;
