@@ -1578,16 +1578,17 @@ height:40%;
 .bottombox {
 font-size:18px;
 width:80px;
-height:90%;
+height:100%;
 }
+
 #botleftbox {
   font-size:20px
 }
 
 #contbox {
 font-size:20px;
-margin-left:19%;
-width:100px;
+margin-left:20%;
+width:110px;
 }
 
 .headbar2 {
