@@ -1410,6 +1410,26 @@ width:80px;
 height:90%;
 }
 
+.headbar {
+  margin-left: 20%;
+    margin-right: 20%;
+}
+
+.box .overbox{
+  opacity:.6;
+
+}
+.box .overtext{
+  opacity:1;
+}
+.box .title{
+  opacity:1;
+}
+.box .tagline{
+  opacity:1;
+}
+
+
 #botleftbox {
   font-size:27px
 }
