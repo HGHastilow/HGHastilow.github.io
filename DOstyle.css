@@ -1527,19 +1527,53 @@ height:40%;
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 
-@media only screen and (max-width : 480px) {
+@media only screen and (max-width : 420px) {
   #startthumb {
-    margin-left:16%;
+    margin-left:14%;
   }
   .thumbnail {
-    margin-left:16%;
+    margin-left:14%;
   }
+  
+  #portbar {
+        height:2600px;
+      }
+
+      #portbod {
+        height:2600px;
+      }
+  
   #abtside {
   height:3000px;
   }
   #abtbod {
   height:3000px;
   }
+  
+  .navbutton {
+  width:10%;
+  height:100%;
+  float:left;
+  margin-top:1%;
+  margin-left:5%;
+}
+
+.navbutton a {
+
+  font-size:15px;
+}
+.dropbtn {
+  font-size:15px;
+  padding-top:17%;
+  padding-left:22%;
+}
+
+#navlist {
+  height:60px;
+  width:96%;
+  margin-left:2% ;
+  margin-right:2% ;
+}
 
 .headbar2 {
   height:100px;
