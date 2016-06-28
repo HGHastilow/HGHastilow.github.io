@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    Darcey Oliver Blog
+  </title>
+  <link rel="icon" type="image/ico" href="img/favicon-16x16.ico">
+  <link rel="stylesheet" href="DOstyle.css">
+  <link href='https://fonts.googleapis.com/css?family=Poiret+One|Abel|Quicksand:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+   <script>
+  /* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+  </script>
+</head>
+
+<!--
+font-family: 'Poiret One', cursive;
+font-family: 'Abel', sans-serif;
+font-family: 'Quicksand', sans-serif;
+-->
+
+<body>
+
+ <div class="sidebar" style="height:1200px">
+
+ </div>
+
+ <div class="bodydiv" style="height:1200px">
+
+
+
+    <div id="follow">
+      <div id="followbox">
+      <a href="https://www.facebook.com/darceyolivercakes/?fref=ts">  <div class="icon" id="fb">  </div></a>
+       <a href="https://uk.pinterest.com/darcey_oliver/"> <div class="icon" id="pin"> </div></a>
+      <a href="https://www.instagram.com/darceyolivercakes/"> <div class="icon" id="ig">  </div> </a>
+      </div>
+    </div>
+
+
+    <div id="logo">
+    <a href="index.html"> <img src="img/logo.png"> </a>
+    </div>
+
+
+
+   <div id="navlist">
+      <div class="navbutton" style="margin-left:5%;"><a href="index.html">Home</a></div>
+      <div class="navbutton"><a href="about.html">About</a></div>
+      <div class="navbutton"><a href="portfolio.html">Gallery</a></div>
+     <div class="navbutton">
+      <div class="dropdown">
+          <button onclick="myFunction()" class="dropbtn">Info</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="faq.html">FAQ</a>
+    <a href="PP.html">Portions and Pricing</a>
+    <a href="flavours.html">Flavours</a>
+  </div></div>
+      </div>
+      <div class="navbutton"><a href="blog.html">Blog</a></div>
+      <div class="navbutton"><a href="contact.html">Contact</a></div>
+
+    </div>
+
+
+ <div id="blogsoon" style="float:left;">
+<img src="img/soon.png" style="width:100%; height:100%;">
+
+
+ </div>
+
+  </div>
+
+
+  <div class="sidebar" style="height:1200px">
+
+ </div>
+
+
+ <div id="bottombanner">
+
+      <div class="bottombox" id="botleftbox">
+       <br> zoe@darceyoliver.co.uk
+      </div>
+
+      <a href="contact.html"><div class="bottombox" id="contbox" >
+        Contact me!
+        <img src="img/env.png" style="height:63%; width:58%; margin:0;">
+      </div> </a>
+
+       <div class="bottombox" style="float:right">
+        Darcey Oliver Cake Couture <br>
+        Wells <br>
+        Somerset
+
+      </div>
+  </div>
+
+
+
+ </body>
+
+
+
+</html>

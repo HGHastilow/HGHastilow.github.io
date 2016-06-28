@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    About Me
+  </title>
+  <link rel="icon" type="image/ico" href="img/favicon-16x16.ico">
+  <link rel="stylesheet" href="DOstyle.css">
+  <link href='https://fonts.googleapis.com/css?family=Poiret+One|Abel|Quicksand:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+   <script>
+  /* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+  </script>
+</head>
+
+<!--
+font-family: 'Poiret One', cursive;
+font-family: 'Abel', sans-serif;
+font-family: 'Quicksand', sans-serif;
+-->
+
+<body>
+
+ <div class="sidebar" id="abtside">
+
+ </div>
+
+ <div class="bodydiv" id="abtbod">
+  <div id="follow">
+      <div id="followbox">
+      <a href="https://www.facebook.com/darceyolivercakes/?fref=ts">  <div class="icon" id="fb">  </div></a>
+       <a href="https://uk.pinterest.com/darcey_oliver/"> <div class="icon" id="pin"> </div></a>
+      <a href="https://www.instagram.com/darceyolivercakes/"> <div class="icon" id="ig">  </div> </a>
+      </div>
+    </div>
+
+
+    <div id="logo">
+    <a href="index.html"> <img src="img/logo.png"> </a>
+    </div>
+
+
+
+    <div id="navlist">
+      <div class="navbutton" style="margin-left:5%;"><a href="index.html">Home</a></div>
+      <div class="navbutton"><a href="about.html">About</a></div>
+      <div class="navbutton"><a href="portfolio.html">Gallery</a></div>
+     <div class="navbutton">
+      <div class="dropdown">
+          <button onclick="myFunction()" class="dropbtn">Info</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="faq.html">FAQ</a>
+    <a href="PP.html">Portions and Pricing</a>
+    <a href="flavours.html">Flavours</a>
+  </div></div>
+      </div>
+      <div class="navbutton"><a href="blog.html">Blog</a></div>
+      <div class="navbutton"><a href="contact.html">Contact</a></div>
+
+    </div>
+
+
+
+ <div class="imgbox">
+    <img src="img/selfie3.jpg">
+ </div>
+
+ <div class="aboutbox" style="float:right">
+   <h1> About me</h1>
+   <p>
+Hi I'm Zo&euml;, an award winning cake artist and owner of Darcey Oliver Cake Couture. <br><br>
+I am a mad happy baker who has been creating in the kitchen since I was at my mamma's apron strings. My first novelty cake of a Jane Asher "lady in bath" design was made at the tender age of 13 (don't ask why, but it made sense at the time!), and I haven't looked back since. <br><br>
+In my former life I was a set decorator & props buyer, working on feature films and TV series. I got to do a lot of cool stuff like recreating Michigan in Surrey, dressing war torn London streets during the Blitz and dressing palaces for princesses. I've always enjoyed creating from a blank canvas and now I get to do it with cake (much tastier than film props...)
+ <br> <br>I fell in love with cake decorating on becoming a mother and children's cakes are still some of my most favourite to design.
+<br><br> My cakes (and cake tutorials) have been featured in Cakes & Sugarcraft and the British Sugarcraft Guild magazines and as part of online global cake collaborations. You can also keep up to date with all my latest news and cakes on <a href="https://www.facebook.com/darceyolivercakes">Facebook</a>, <a href="https://www.instagram.com/darceyolivercakes/">Instagram</a> & <a href="https://uk.pinterest.com/darcey_oliver/">Pinterest</a>.
+</p>
+ </div>
+
+ <div id="featbox">
+   <h1> Featured In: </h1>
+
+  <div id="upperimg" style="float:left; width:100%">
+
+ <a href="http://www.cakesandsugarcraft.com/"><img src="img/cslogoclear.png" style=" width:33%; height:16%; margin-left:9%; float:left"></a>
+ <a href="http://bsguk.org/"><img src="img/bsglogo.png" style="width:47%; height:10%; margin-left:10%; margin-top:4%; float:left"></a>
+
+ </div>
+  <div id="cscover"><img src="img/cover.jpg"></div>
+  <div id="bsgcover"><img src="img/humphrey.jpeg" ></div>
+ </div>
+
+
+
+
+
+  </div>
+
+
+  <div class="sidebar" id="abtside">
+
+ </div>
+
+
+
+
+ <div id="bottombanner">
+
+      <div class="bottombox" id="botleftbox">
+       <br> zoe@darceyoliver.co.uk
+      </div>
+
+      <a href="contact.html"><div class="bottombox" id="contbox" >
+        Contact me!
+        <img src="img/env.png" style="height:63%; width:58%; margin:0;">
+      </div> </a>
+
+       <div class="bottombox" style="float:right">
+        Darcey Oliver Cake Couture <br>
+        Wells <br>
+        Somerset
+
+      </div>
+  </div>
+
+
+ </body>
+
+</html>
