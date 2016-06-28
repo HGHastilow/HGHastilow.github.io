@@ -1474,7 +1474,7 @@ height:40%;
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 600px) {
   #startthumb {
     margin-left:16%;
   }
@@ -1584,6 +1584,9 @@ height:40%;
 #blogsoon {
   height:700px;
   margin-top:20%;
+}
+#abouttext {
+  font-size:2.0vw;
 }
 
 }
