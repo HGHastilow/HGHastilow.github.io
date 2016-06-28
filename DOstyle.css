@@ -1298,6 +1298,9 @@ height:37%
       height:400px;
       margin:1%;
     }
+    #startthumb {
+  margin-left:11%;
+}
     .box {
 
       height: 400px;
@@ -1485,7 +1488,7 @@ height:40%;
 }
 
 #startthumb {
-  margin-left:11%;
+  margin-left:4%;
 }
 
 
