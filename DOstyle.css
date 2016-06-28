@@ -1529,10 +1529,10 @@ height:40%;
 
 @media only screen and (max-width : 420px) {
   #startthumb {
-    margin-left:14%;
+    margin-left:13%;
   }
   .thumbnail {
-    margin-left:14%;
+    margin-left:13%;
   }
   
   #portbar {
@@ -1564,7 +1564,7 @@ height:40%;
 }
 .dropbtn {
   font-size:15px;
-  padding-top:17%;
+  padding-top:25%;
   padding-left:22%;
 }
 
