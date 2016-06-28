@@ -1552,10 +1552,10 @@ height:40%;
       }
   
   #abtside {
-  height:3000px;
+  height:2800px;
   }
   #abtbod {
-  height:3000px;
+  height:2800px;
   }
   
   .navbutton {
@@ -1604,13 +1604,14 @@ width:120px;
   
 }
 .aboutbox {
-height:25%;
+height:27%;
 font-size:20px;
  
 }
 
 .imgbox img {
  height:74%;
+ margin-top:12%;
 }
 
 .headbar2 {
