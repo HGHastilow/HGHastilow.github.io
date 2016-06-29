@@ -32,6 +32,11 @@ float:left;
 font-family:'Quicksand', sans-serif;
 }
 
+#creator a{
+  text-decoration:none;
+  color:#ded3d8;
+}
+
 #abtside{
   height:2300px;
 }
