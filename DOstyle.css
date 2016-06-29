@@ -1862,7 +1862,7 @@ margin-left:8%;
 }
 
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 335px) {
 .navbutton a {
   font-size:13px;
 }
