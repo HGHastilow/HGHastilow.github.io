@@ -1736,3 +1736,66 @@ font-size:20px;
 
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-width : 380px) {
+
+.sidebar {
+  width: 2%;
+  height:920px;
+}
+
+
+.bodydiv {
+  width:96%;
+  height:920px;
+}
+
+.navbutton a {
+  font-size:14px;
+}
+#bottombanner {
+  height:88px;
+}
+
+#ppbod {
+    height: 1800px;
+}
+
+#ppbar {
+    height: 1800px;
+}
+
+.thumbnail {
+  margin-left:10%;
+}
+#startthumb {
+  margin-left:10%;
+}
+
+#faqbox {
+  height:3300px;
+}
+
+#faqbod {
+height:3600px;
+}
+#faqbar {
+  height:3600px;
+}
+
+.headbar {
+  font-size:40px;
+}
+#flavbod {
+    height:3600px;
+}
+#flavbar {
+  height:3600px;
+}
+.flavtable {
+  width:90%;
+  margin-left:5%;
+}
+
+
+
+}
