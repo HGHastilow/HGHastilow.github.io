@@ -1552,7 +1552,9 @@ height:40%;
 #startthumb {
   margin-left:8%;
 }
-
+.navbutton2 a {
+ font-size:17px;
+}
 
 
 }
