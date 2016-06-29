@@ -21,6 +21,16 @@ height:100%;
   float:left;
 
 }
+#creator {
+background-color:#2b2125;
+  height:10px;
+float:left;
+  color:white;
+  width:100%;
+  text-align:right;
+  font-size:8px;
+font-family:'Quicksand', sans-serif;
+}
 
 #abtside{
   height:2300px;
