@@ -1834,6 +1834,16 @@ font-size:19px;
 
 }
 
+@media only screen and (max-width : 380px) {
+ .thumbnail {
+margin-left:8%;  
+ }
+ #startthumb {
+  margin-left:8%;
+ }
+}
+
+
 @media only screen and (max-width : 320px) {
 .navbutton a {
   font-size:13px;
