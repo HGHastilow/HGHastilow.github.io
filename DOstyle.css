@@ -1826,12 +1826,14 @@ height:3600px;
   margin-left:5%;
 }
 
-.abouttbox p{
-font-size:19px;
-}
+.aboutbox {
 
+font-size:19px;
  
 }
+
+}
+
 @media only screen and (max-width : 320px) {
 .navbutton a {
   font-size:13px;
