@@ -813,7 +813,10 @@ padding-bottom:15px ;
     border-bottom:1px solid black;
 
   margin-top:2%;
-
+}
+#pppbox p {
+  font-size:28px;
+  font-family:'Yanone';
 }
 
 
