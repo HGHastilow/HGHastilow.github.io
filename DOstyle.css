@@ -1751,6 +1751,17 @@ font-size:20px;
 #kidbar {
   height:3500px;
 }
+
+.sidebar {
+  width: 2%;
+ 
+}
+
+
+.bodydiv {
+  width:96%;
+  
+}
 }
 
 
