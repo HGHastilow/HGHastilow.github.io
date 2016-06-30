@@ -1407,7 +1407,7 @@ height:37%
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 
-  @media only screen and (max-width : 768px) {
+  @media only screen and (max-device-width : 768px) {
 
 .sidebar {
   width:4%;
@@ -1576,7 +1576,7 @@ height:40%;
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 
-@media only screen and (max-width : 520px) {
+@media only screen and (max-device-width : 520px) {
   #startthumb {
     margin-left:13%;
   }
@@ -1781,7 +1781,7 @@ font-size:20px;
 
 
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
-@media only screen and (max-width : 380px) {
+@media only screen and (max-device-width : 380px) {
 
 .sidebar {
   width: 2%;
@@ -1849,7 +1849,7 @@ font-size:19px;
 
 }
 
-@media only screen and (max-width : 367px) {
+@media only screen and (max-device-width : 367px) {
  .thumbnail {
 margin-left:8%;  
  }
@@ -1862,7 +1862,7 @@ margin-left:8%;
 }
 
 
-@media only screen and (max-width : 335px) {
+@media only screen and (max-device-width : 335px) {
 .navbutton a {
   font-size:13px;
 }
