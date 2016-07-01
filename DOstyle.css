@@ -1038,6 +1038,12 @@ padding-bottom:15px ;
 
 
         }
+        
+        .imgbox img {
+         height:70%;
+         margin-top:15%;
+         margin-left:15%;
+        }
 
       }
 
