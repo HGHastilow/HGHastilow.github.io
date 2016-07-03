@@ -2171,12 +2171,13 @@ height:1900px;
 
 #cscover {
  width:50%;
- height:400px;
-
+ height:900px;
+float:left;
 }
 #bsgcover {
   width:50%;
- height:400px;
+ height:900px;
+ float:left;
 }
 
   }
