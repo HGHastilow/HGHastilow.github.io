@@ -2188,8 +2188,11 @@ float:left;
 }
 .imgbox img {
  height:80%;
- margin-top:10%;
+ margin-top:8%;
  
+}
+#featbox {
+ height:30%;
 }
   }
  
