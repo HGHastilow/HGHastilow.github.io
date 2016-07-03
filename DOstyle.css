@@ -2181,18 +2181,19 @@ float:left;
 }
 
 .aboutbox{
- height:20%;
+ height:24%;
 }
 .imgbox {
  height:20%;
 }
 .imgbox img {
- height:80%;
- margin-top:8%;
+ height:78%;
+ margin-top:7%;
+ width:50%;
  
 }
 #featbox {
- height:25%;
+ height:18%;
 }
   }
  
