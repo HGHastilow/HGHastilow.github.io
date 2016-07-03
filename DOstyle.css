@@ -2082,7 +2082,7 @@ height:1900px;
         margin-top:35%;
       }
       #abouttext {
-      font-size:2.2vw;
+      font-size:2.1vw;
     }
     .sidebar{
       height:1300px ;
@@ -2118,7 +2118,7 @@ height:1900px;
       margin:1%;
     }
     #startthumb {
-  margin-left:11%;
+  margin-left:16%;
 }
     .box {
 
@@ -2167,6 +2167,16 @@ height:1900px;
     .headbar {
   margin-left: 20%;
     margin-right: 20%;
+}
+
+#cscover {
+ width:50%;
+ height:400px;
+
+}
+#bsgcover {
+  width:50%;
+ height:400px;
 }
 
   }
