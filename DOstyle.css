@@ -157,7 +157,7 @@ margin-left:1%;
   }
 
 
- /*Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong ass content divider */
+ /*Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong content divider */
 
   /* Dropdown Button */
 .dropbtn {
@@ -220,7 +220,7 @@ margin-left:1%;
 
 
 
- /*Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong ass content divider */
+ /*Looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong content divider */
 
 .flexslider {
   slideshowSpeed: 16000;
@@ -2181,13 +2181,13 @@ float:left;
 }
 
 .aboutbox{
- height:24%;
+ height:730px;
 }
 .imgbox {
- height:20%;
+ height:500px;
 }
 .imgbox img {
- height:78%;
+ height:68%;
  margin-top:7%;
  width:50%;
  
