@@ -1299,6 +1299,7 @@ height:37%
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 
     @media only screen and (max-width : 1024px) {
+     
       #logo {
         width:60%;
         margin-right:10%;
@@ -2048,3 +2049,121 @@ height:1900px;
 }
 
 }
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { 
+ 
+  
+     
+      #logo {
+        width:60%;
+        margin-right:10%;
+        margin-top:3%;
+      }
+      #followbox {
+        width:60%;
+        margin-left:20%;
+    }
+    
+    .box .overbox{
+  opacity:.6;
+
+}
+.box .overtext{
+  opacity:1;
+}
+.box .title{
+  opacity:1;
+}
+.box .tagline{
+  opacity:1;
+}
+      .icon {
+        width:33%;
+        margin-top:35%;
+      }
+      #abouttext {
+      font-size:2.2vw;
+    }
+    .sidebar{
+      height:1300px ;
+      width:12%;
+    }
+    .bodydiv {
+      height:1300px;
+      width:76%;
+    }
+
+    #abtside{
+      height:1900px;
+
+}
+    #abtbod {
+        height:1900px;
+
+}
+
+    #contbox {
+      margin-left:20%;
+    }
+
+    .imgbox img {
+      height:60%;
+      margin-top:40%;
+
+    }
+
+    .thumbnail {
+      width:280px;
+      height:400px;
+      margin:1%;
+    }
+    #startthumb {
+  margin-left:11%;
+}
+    .box {
+
+      height: 400px;
+      position: relative;
+      overflow: hidden;
+      width: 280px;
+    }
+    .box .overbox {
+
+      width: 280px;
+      height: 210px;
+      padding: 130px 20px;
+
+    font-size:25px;
+    }
+    #portbar {
+      height:1200px;
+
+    }
+
+    #portbod {
+      height:1200px;
+
+    }
+
+    #portpix {
+      margin-left:1.4%;
+    }
+.navbutton2 a {
+  font-size:18.5px;
+}
+    .navbutton2 {
+      width:28%;
+      height:100%;
+      float:left;
+   margin-left:1%;
+
+    }
+    
+    .headbar {
+  margin-left: 20%;
+    margin-right: 20%;
+}
+
+  }
+ 
+
