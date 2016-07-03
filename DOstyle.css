@@ -2094,11 +2094,11 @@ height:1900px;
     }
 
     #abtside{
-      height:3900px;
+      height:3000px;
 
 }
     #abtbod {
-        height:3900px;
+        height:3000px;
 
 }
 
@@ -2189,7 +2189,7 @@ float:left;
 .imgbox img {
  height:68%;
  margin-top:7%;
- width:50%;
+ width:30%;
  
 }
 #featbox {
@@ -2200,7 +2200,7 @@ float:left;
  @media only screen  and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
 
 .aboutbox {
- font-size:2.7vw;
+ font-size:2.8vw;
 }
 
 
