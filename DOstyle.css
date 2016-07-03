@@ -2171,20 +2171,20 @@ height:1900px;
 
 #cscover {
  width:50%;
- height:1400px;
+ height:1300px;
 float:left;
 }
 #bsgcover {
   width:50%;
- height:1400px;
+ height:1300px;
  float:left;
 }
 
 .aboutbox{
- height:25%;
+ height:20%;
 }
 .imgbox {
- height:25%;
+ height:20%;
 }
 .imgbox img {
  height:80%;
@@ -2192,7 +2192,7 @@ float:left;
  
 }
 #featbox {
- height:30%;
+ height:25%;
 }
   }
  
