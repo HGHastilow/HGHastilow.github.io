@@ -2318,16 +2318,17 @@ float:left;
  }
  
  .navbutton a {
-  font-size:10.5px;
+  font-size:11px;
  }
  
  .dropbtn {
-  padding-top:11px;
+  padding-top:13px;
  
-  font-size:10.5px;
+  font-size:11px;
  }
  .dropdown {
-  width:25%;
+  width:22%;
+  margin-left:1%;
  }
  
 
