@@ -2322,13 +2322,13 @@ float:left;
  }
  
  .dropbtn {
-  padding-top:16px;
- 
+  padding-top:15px;
+ margin-left:6%;
   font-size:12px;
  }
  .dropdown {
   width:22%;
-  margin-left:4%;
+  margin-left:6%;
  }
  
 
