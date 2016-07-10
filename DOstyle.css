@@ -2314,7 +2314,7 @@ float:left;
  
   .navbutton {
   width:11%;
- 
+ margin:3.5%;
  }
  
  .navbutton a {
@@ -2322,13 +2322,13 @@ float:left;
  }
  
  .dropbtn {
-  padding-top:14px;
+  padding-top:16px;
  
   font-size:11px;
  }
  .dropdown {
   width:22%;
-  margin-left:2%;
+  margin-left:4%;
  }
  
 
