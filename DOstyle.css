@@ -2316,10 +2316,14 @@ float:left;
  .dropbtn {
   padding-top:10px;
   width:15%;
-  font-size:10px;
+  font-size:12px;
  }
  .navbutton {
   width:12%;
+ 
+ }
+ 
+ .navbutton a {
   font-size:10px;
  }
  
