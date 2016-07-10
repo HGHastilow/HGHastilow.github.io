@@ -2311,5 +2311,17 @@ float:left;
  #flavbod {
   height:4200px;
  }
+ 
+ #starthumb {
+   margin-left:10%;
+ }
+ 
+ .thumbnail {
+  margin-left:10%;
+ }
+ .dropbtn {
+  padding-top:0;
+ }
+ 
 }
 
